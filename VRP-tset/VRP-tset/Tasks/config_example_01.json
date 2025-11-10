@@ -1,0 +1,20 @@
+{
+
+    "AREA_DEFAULT": {
+        "task_num": 5,
+        "START_TIME": 0,
+        "END_TIME": 150,
+        "DURATION": 15
+    },
+
+
+    "UAV_DEFAULT": {
+        "initial position": [60,5],
+        "initial yaw": 0,
+        "flight height": 1.2,
+        "horizontal angle of view": 1.57,
+        "minimum turning radius": 1,
+        "FUEL": 3
+    }
+
+}
